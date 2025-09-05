@@ -1,0 +1,24 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    max-width: 1000px;
+    margin: 24px auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 4px;
+    font-weight: 600
+}
+
+input, select, textarea {
+    padding: 6px 8px;
+    width: 300px
+}
+
+form div {
+    margin-bottom: 10px
+}
+
+button, a {
+    margin-right: 8px
+}
